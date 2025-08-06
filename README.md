@@ -1,4 +1,5 @@
 ## 🔍 Open Port Scanner Tool
+![Screenshot](photo_5233243094571417456_y.jpg?raw=true)
 
 A fast and lightweight Python tool to scan for open ports on any target IP address.  
 It’s designed to be simple, efficient, and only focuses on identifying active (open) ports, saving you time and resources.
