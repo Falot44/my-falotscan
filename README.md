@@ -1,7 +1,16 @@
-# 💙 Support Me and Share My Project 🙌
+## 🔍 Open Port Scanner Tool
 
-Help me raise my voice and achieve my dream of becoming an ethical hacker despite all the challenges. ❤️‍🩹
+A fast and lightweight Python tool to scan for open ports on any target IP address.  
+It’s designed to be simple, efficient, and only focuses on identifying active (open) ports, saving you time and resources.
 
-I was born with Tetralogy of Fallot, a rare heart condition — but I believe no illness can stop true ambition.
+### ⚙️ Features:
+- 🚀 High-speed scanning
+- 🎯 Detects only open ports (ignores closed ones)
+- 🧠 Useful for network testing and cybersecurity tasks
+- 💡 Beginner-friendly and easy to use
 
-🔁 Share this project and let the world know that limits exist only in the mind.
+### 🖥️ Example usage:
+`bash
+python3 portscanner.py
+Enter IP Address: 192.168.1.1
+Open Ports: 80, 443, 22
